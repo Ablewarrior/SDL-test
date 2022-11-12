@@ -2,8 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//temptest
-
 #include "../header_files/main.h"
 #include "../header_files/draw_grille.h"
 
